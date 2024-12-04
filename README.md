@@ -1,6 +1,6 @@
 # SocialPsyFactorInMerging
 
-This repository documents the (partial) codebase for developments in the following papers. The development is on MATLAB. Simulation videos are available on the webpage [[https://xiaolisean.github.io/publication/2023-11-01-L4DC2024](https://xiaolisean.github.io/publication/2023-10-31-TCST2024)](https://xiaolisean.github.io/publication/2023-10-31-TCST2024).
+This repository documents the (partial) codebase for developments in the following papers. The development is on MATLAB. Simulation videos are available on the webpage [https://xiaolisean.github.io/publication/2023-10-31-TCST2024](https://xiaolisean.github.io/publication/2023-10-31-TCST2024).
  
 Please cite the following Conference and Journal papers:
 ```
